@@ -1,0 +1,246 @@
+@charset "utf-8";
+/* CSS Document */
+.degradado{
+	background: -webkit-linear-gradient(aqua,  aquamarine);
+	background: -moz-linear-gradient(aqua,  aquamarine);
+	background: linear-gradient(aqua,  aquamarine);
+	background: -o-linear-gradient(aqua, aquamarine);
+}
+body{
+	background-image: url(nubes.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: column;
+}
+
+header{
+	border: solid 1px;
+	margin: 0px 100px 0px 100px;
+	background-color: aqua;
+		display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.gmayusc{
+	box-shadow: -2px 3px 4px 2px;
+	border-radius: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 20px 10px 20px;
+	background-color: orange;
+}
+.gardenia{
+	text-align: center;
+	font-size: 20px;
+}
+.centroeducativo{
+	
+}
+.gmayusc2{
+	margin-left: 20px;
+}
+.gardeniaypotenciamos{
+	display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: column;
+margin-top: 70px;
+	margin-right: 100px;
+}
+.gardenia2{
+	font-size: 30px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.nav1{
+	border: solid 1px;
+	height: 50px;
+	margin: 0px 100px 0px 100px;
+	background-color: cadetblue;
+
+	
+}
+botoneranav{
+}
+.botonnav1{
+	background-color: coral;
+	margin-left: 50px;
+	margin-top: 10px;
+	padding: 10px 40px 10px 10px;
+	display: inline-block;
+	
+}
+.botonnav2{
+	background-color: coral;
+	margin-left: 50px;
+	margin-top: 10px;
+	padding: 10px 20px 10px 10px;
+	display: inline-block;
+	
+}
+.section1{
+	margin: 0px 100px 0px 100px;
+	display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: row;
+}
+.nav2{
+	margin: 10px 40px 10px 10px;
+	height: 600px;
+	width: 100%;
+	display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: column;
+	
+}
+.apartado1{
+	margin-top: 10px;
+	display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: column;
+	background-color: aquamarine;
+	height: 200px;
+	
+}
+.bienvenido{
+	background-color: aqua;
+	padding: 10px 40px 10px 10px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+.apartado2{
+	margin-top: 10px;
+	display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: column;
+	background-color: aquamarine;
+	height: 150px;
+}
+.librowifi{
+	margin-top: 20px;
+	margin-left: 20px;
+	height: 60px;
+	width: 80px;
+}
+.apartado3{
+	margin-top: 10px;
+	display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: column;
+	background-color: aquamarine;
+	height: 250px;
+}
+.apartado3texto{
+	margin-top: 20px;
+}
+
+
+
+
+.libroychavales{
+	border-bottom: solid 3px;
+	display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: row;
+}
+.librotexto{
+	display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: column;
+	margin-right: 300px;
+}
+.nuestrahistoria{
+	text-align: center;
+	background-color: orange;
+	height: 80px;
+	width: 56%;
+	margin-top: 20px;
+	margin-left: 50px;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 0px 4px red;
+}
+.nuestra{
+	font-size: 30px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+.historia{
+	font-size: 30px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	margin-top: 20px;
+}
+.texto{
+	margin-top: 40px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;
+}
+.section1{
+	border: solid 1px;
+	background-color: aliceblue;
+}
+
+
+
+
+footer{
+	border: solid 1px;
+	height: 70px;
+	margin: 0px 100px 0px 100px;
+	background-color: cadetblue;
+	display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+	flex-direction: row;
+}
+.imagenfondo1{
+	margin: 10px 5px 20px 20px;
+}
+.noscomplace{
+	margin: 10px;
+}
+.texto{
+	border-top: solid 3px;
+}
+.secciondeseccion{
+	margin: 40px;
+}
+ul{
+	text-decoration: none;
+	list-style: none;
+}
+li{
+	text-decoration: none;
+	list-style: none;
+}
